@@ -114,6 +114,16 @@ once you've done make project or wanna put this code
 
 `git push` - if you add smth, or extra code, don't forget `git add` + `git commit -m "yada yada"`, then `git push` to upload your github website. then refresh again on browser and it will pop up the updated that you've added the code.
 
+-----
+
+## make clone
+
+create new folder 
+
+then right click that folder that you've created, then open **git bash**
+
+`git clone <put SSH link here>` - to make your folder clone
+
 
 
 
