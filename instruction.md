@@ -80,7 +80,10 @@ master
 once you've done make project or wanna put this code 
 
 `git remote add origin <put git this link on SSH key>`
-`git push -u origin main`
+
+`git push -u origin main` - then refresh your browser on github, to check whether files already put in it.
+
+`git push` - if you add smth, or extra code, don't forget `git add` + `git commit -m "yada yada"`, then `git push` to upload your github website. then refresh again on browser and it will pop up the updated that you've added the code.
 
 
 
