@@ -76,6 +76,11 @@ master
 
 `git log` - to check again | and it now has showed "add animated bg"
 
+## put this code project into github using git
+once you've done make project or wanna put this code 
+
+`git remote add origin <put git this link on SSH key>`
+`git push -u origin main`
 
 
 
