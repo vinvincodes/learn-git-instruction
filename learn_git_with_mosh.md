@@ -211,6 +211,14 @@ step 3: `git config --global -e` - to open vscode automatically
 
 `git show d601..` or `git show HEAD~1` - so that faster and no need to type unique number identifier 
 
+`git show HEAD~1: <files.type>` - we specify the full path path to a file 
+
+`git show HEAD`
+
+
+
+
+
 
 
 ----
