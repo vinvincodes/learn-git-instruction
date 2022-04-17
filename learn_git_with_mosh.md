@@ -160,7 +160,7 @@ file1.txt
 
 `git status` - `file1.txt -> main.js`
 
-`git mv main.js file1.js` - `file1.txt -> file1.js`
+`mv main.js file1.js` - `file1.txt -> file1.js`
 
 ----
 
